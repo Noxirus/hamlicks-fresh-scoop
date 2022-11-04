@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hamlicks-fresh-scoop/static/css/main.d1d1cfa5.css",
-    "main.js": "/hamlicks-fresh-scoop/static/js/main.72a0b49a.js",
-    "static/js/787.deac7440.chunk.js": "/hamlicks-fresh-scoop/static/js/787.deac7440.chunk.js",
-    "static/media/Hamlicks_LOGOCropped.png": "/hamlicks-fresh-scoop/static/media/Hamlicks_LOGOCropped.aaf78a57106c746f4283.png",
-    "index.html": "/hamlicks-fresh-scoop/index.html",
-    "main.d1d1cfa5.css.map": "/hamlicks-fresh-scoop/static/css/main.d1d1cfa5.css.map",
-    "main.72a0b49a.js.map": "/hamlicks-fresh-scoop/static/js/main.72a0b49a.js.map",
-    "787.deac7440.chunk.js.map": "/hamlicks-fresh-scoop/static/js/787.deac7440.chunk.js.map"
+    "main.css": "/hamlicks.com/static/css/main.d1d1cfa5.css",
+    "main.js": "/hamlicks.com/static/js/main.4eaf9e8e.js",
+    "static/js/787.deac7440.chunk.js": "/hamlicks.com/static/js/787.deac7440.chunk.js",
+    "static/media/Hamlicks_LOGOCropped.png": "/hamlicks.com/static/media/Hamlicks_LOGOCropped.aaf78a57106c746f4283.png",
+    "index.html": "/hamlicks.com/index.html",
+    "main.d1d1cfa5.css.map": "/hamlicks.com/static/css/main.d1d1cfa5.css.map",
+    "main.4eaf9e8e.js.map": "/hamlicks.com/static/js/main.4eaf9e8e.js.map",
+    "787.deac7440.chunk.js.map": "/hamlicks.com/static/js/787.deac7440.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d1cfa5.css",
-    "static/js/main.72a0b49a.js"
+    "static/js/main.4eaf9e8e.js"
   ]
 }
