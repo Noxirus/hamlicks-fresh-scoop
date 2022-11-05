@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hamlicks is currently under maintenance!
+          Hamlicks is currently under maintenance! Please come back occasionally for updates.
         </p>
       </header>
     </div>
